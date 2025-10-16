@@ -42,12 +42,12 @@ function App() {
           <Login setUsuario={setUsuario} />
         )}
         <div style={{ textAlign: "center", marginTop: "10px" }}>
-          <button
+          {/* <button
             className="elButton"
             onClick={() => setMostrarRegistro(!mostrarRegistro)}
           >
             {mostrarRegistro ? "Ya tengo cuenta" : "Crear cuenta nueva"}
-          </button>
+          </button> */}
         </div>
       </div>
     );
