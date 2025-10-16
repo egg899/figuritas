@@ -1,0 +1,729 @@
+[{
+  "_id": {
+    "$oid": "68f061dd688484c4a089e684"
+  },
+  "nombre": "Figurita 1",
+  "url": "/img/Achaga, Valentina.jpg",
+  "codigo": "X7P2LQ",
+  "desbloqueada": "false"
+},
+{
+  "_id": {
+    "$oid": "68f061dd688484c4a089e685"
+  },
+  "nombre": "Figurita 2",
+  "url": "/img/Agus Movia SL2.png",
+  "codigo": "M9K3ZR",
+  "desbloqueada": "false"
+},
+{
+  "_id": {
+    "$oid": "68f061dd688484c4a089e686"
+  },
+  "nombre": "Figurita 3",
+  "url": "/img/Agus Tava.png",
+  "codigo": "B4T8QN",
+  "desbloqueada": "false"
+},
+{
+  "_id": {
+    "$oid": "68f061dd688484c4a089e687"
+  },
+  "nombre": "Figurita 4",
+  "url": "/img/Agustina Palacios.jpg",
+  "codigo": "V1J6SY",
+  "desbloqueada": "false"
+},
+{
+  "_id": {
+    "$oid": "68f061dd688484c4a089e688"
+  },
+  "nombre": "Figurita 5",
+  "url": "/img/Agustín Sarramia SL2.jpg",
+  "codigo": "C8D5LX",
+  "desbloqueada": "false"
+},
+{
+  "_id": {
+    "$oid": "68f061dd688484c4a089e689"
+  },
+  "nombre": "Figurita 6",
+  "url": "/img/Aimetta, Martin.jpg",
+  "codigo": "R2F9HT",
+  "desbloqueada": "false"
+},
+{
+  "_id": {
+    "$oid": "68f061dd688484c4a089e68a"
+  },
+  "nombre": "Figurita 7",
+  "url": "/img/Alexis Perdomo.jpg",
+  "codigo": "K3P1WX",
+  "desbloqueada": "false"
+},
+{
+  "_id": {
+    "$oid": "68f061dd688484c4a089e68b"
+  },
+  "nombre": "Figurita 8",
+  "url": "/img/Almada Santiago.jpg",
+  "codigo": "G7N4JQ",
+  "desbloqueada": "false"
+},
+{
+  "_id": {
+    "$oid": "68f061dd688484c4a089e68c"
+  },
+  "nombre": "Figurita 9",
+  "url": "/img/Ambar De bruno Re.jpg",
+  "codigo": "T6V2SP",
+  "desbloqueada": "false"
+},
+{
+  "_id": {
+    "$oid": "68f061dd688484c4a089e68d"
+  },
+  "nombre": "Figurita 10",
+  "url": "/img/Arrighi Mauro.jpeg",
+  "codigo": "L9C8BR",
+  "desbloqueada": "false"
+},
+{
+  "_id": {
+    "$oid": "68f061dd688484c4a089e68e"
+  },
+  "nombre": "Figurita 11",
+  "url": "/img/Baez, Melina_1.jpg",
+  "codigo": "Q4D6FW",
+  "desbloqueada": "false"
+},
+{
+  "_id": {
+    "$oid": "68f061dd688484c4a089e68f"
+  },
+  "nombre": "Figurita 12",
+  "url": "/img/Balbuena, Abril.jpg",
+  "codigo": "H2K7YM",
+  "desbloqueada": "false"
+},
+{
+  "_id": {
+    "$oid": "68f061dd688484c4a089e690"
+  },
+  "nombre": "Figurita 13",
+  "url": "/img/Barragán, Nicanor_1.jpg",
+  "codigo": "N5J9ZL",
+  "desbloqueada": "false"
+},
+{
+  "_id": {
+    "$oid": "68f061dd688484c4a089e691"
+  },
+  "nombre": "Figurita 14",
+  "url": "/img/Barrios, Franco_1.jpg",
+  "codigo": "W8R1PX",
+  "desbloqueada": "false"
+},
+{
+  "_id": {
+    "$oid": "68f061dd688484c4a089e692"
+  },
+  "nombre": "Figurita 15",
+  "url": "/img/Barrios, Iara.jpg",
+  "codigo": "S3M6QY",
+  "desbloqueada": "false"
+},
+{
+  "_id": {
+    "$oid": "68f061dd688484c4a089e693"
+  },
+  "nombre": "Figurita 16",
+  "url": "/img/Battaglia, Zoe_1.jpg",
+  "codigo": "D9V2KN",
+  "desbloqueada": "false"
+},
+{
+  "_id": {
+    "$oid": "68f061dd688484c4a089e694"
+  },
+  "nombre": "Figurita 17",
+  "url": "/img/Berber, Aylen_1.jpg",
+  "codigo": "F5L7XZ",
+  "desbloqueada": "false"
+},
+{
+  "_id": {
+    "$oid": "68f061dd688484c4a089e695"
+  },
+  "nombre": "Figurita 18",
+  "url": "/img/Bianca Pincetti .jpg",
+  "codigo": "P8Q3MW",
+  "desbloqueada": "false"
+},
+{
+  "_id": {
+    "$oid": "68f061dd688484c4a089e696"
+  },
+  "nombre": "Figurita 19",
+  "url": "/img/Blanco, Delfina.jpg",
+  "codigo": "J6T9VL",
+  "desbloqueada": "false"
+},
+{
+  "_id": {
+    "$oid": "68f061dd688484c4a089e697"
+  },
+  "nombre": "Figurita 20",
+  "url": "/img/Burgos Romano.jpg",
+  "codigo": "R4X1SC",
+  "desbloqueada": "false"
+},
+{
+  "_id": {
+    "$oid": "68f061dd688484c4a089e698"
+  },
+  "nombre": "Figurita 21",
+  "url": "/img/Caballero, Abril_1.jpg",
+  "codigo": "K7P2HD",
+  "desbloqueada": "false"
+},
+{
+  "_id": {
+    "$oid": "68f061dd688484c4a089e699"
+  },
+  "nombre": "Figurita 22",
+  "url": "/img/Cagraris, Matias.jpg",
+  "codigo": "M3F8VQ",
+  "desbloqueada": "false"
+},
+{
+  "_id": {
+    "$oid": "68f061dd688484c4a089e69a"
+  },
+  "nombre": "Figurita 23",
+  "url": "/img/Calistro, Chandra_1.jpg",
+  "codigo": "N6D5RW",
+  "desbloqueada": "false"
+},
+{
+  "_id": {
+    "$oid": "68f061dd688484c4a089e69b"
+  },
+  "nombre": "Figurita 24",
+  "url": "/img/Castro Ana Paz.jpg",
+  "codigo": "T9L4KX",
+  "desbloqueada": "false"
+},
+{
+  "_id": {
+    "$oid": "68f061dd688484c4a089e69c"
+  },
+  "nombre": "Figurita 25",
+  "url": "/img/Cañiza, Lucas.jpg",
+  "codigo": "F2P7MJ",
+  "desbloqueada": "false"
+},
+{
+  "_id": {
+    "$oid": "68f061dd688484c4a089e69d"
+  },
+  "nombre": "Figurita 26",
+  "url": "/img/coty figu.jpeg",
+  "codigo": "S7L1QV",
+  "desbloqueada": "false"
+},
+{
+  "_id": {
+    "$oid": "68f061dd688484c4a089e69e"
+  },
+  "nombre": "Figurita 27",
+  "url": "/img/Daniel Barrios SL2.png",
+  "codigo": "V8R3QY",
+  "desbloqueada": "false"
+},
+{
+  "_id": {
+    "$oid": "68f061dd688484c4a089e69f"
+  },
+  "nombre": "Figurita 28",
+  "url": "/img/De Marco, Clara_1.jpg",
+  "codigo": "H5N1SZ",
+  "desbloqueada": "false"
+},
+{
+  "_id": {
+    "$oid": "68f061dd688484c4a089e6a0"
+  },
+  "nombre": "Figurita 29",
+  "url": "/img/Di Diego, Santiago.jpg",
+  "codigo": "C4K8TX",
+  "desbloqueada": "false"
+},
+{
+  "_id": {
+    "$oid": "68f061dd688484c4a089e6a1"
+  },
+  "nombre": "Figurita 30",
+  "url": "/img/Ema Canteli.jpeg",
+  "codigo": "P7J6WR",
+  "desbloqueada": "false"
+},
+{
+  "_id": {
+    "$oid": "68f061dd688484c4a089e6a2"
+  },
+  "nombre": "Figurita 31",
+  "url": "/img/Ezequiel Sáenz SL2.png",
+  "codigo": "S9L2FV",
+  "desbloqueada": "false"
+},
+{
+  "_id": {
+    "$oid": "68f061dd688484c4a089e6a3"
+  },
+  "nombre": "Figurita 32",
+  "url": "/img/Fabio Torres.jpg",
+  "codigo": "D5X7QP",
+  "desbloqueada": "false"
+},
+{
+  "_id": {
+    "$oid": "68f061dd688484c4a089e6a4"
+  },
+  "nombre": "Figurita 33",
+  "url": "/img/Fassi, Ismael.jpg",
+  "codigo": "K8L2VR",
+  "desbloqueada": "false"
+},
+{
+  "_id": {
+    "$oid": "68f061dd688484c4a089e6a5"
+  },
+  "nombre": "Figurita 34",
+  "url": "/img/Federico Fores SL2.png",
+  "codigo": "T4J9NW",
+  "desbloqueada": "false"
+},
+{
+  "_id": {
+    "$oid": "68f061dd688484c4a089e6a6"
+  },
+  "nombre": "Figurita 35",
+  "url": "/img/Fernando Fridman.jpeg",
+  "codigo": "M1F6SZ",
+  "desbloqueada": "false"
+},
+{
+  "_id": {
+    "$oid": "68f061dd688484c4a089e6a7"
+  },
+  "nombre": "Figurita 36",
+  "url": "/img/Florez, Diaz, Glauco Sebastian.jpg",
+  "codigo": "R3P8KX",
+  "desbloqueada": "false"
+},
+{
+  "_id": {
+    "$oid": "68f061dd688484c4a089e6a8"
+  },
+  "nombre": "Figurita 37",
+  "url": "/img/Franco Banquiero fotofigu.jpg",
+  "codigo": "V6Q2LF",
+  "desbloqueada": "false"
+},
+{
+  "_id": {
+    "$oid": "68f061dd688484c4a089e6a9"
+  },
+  "nombre": "Figurita 38",
+  "url": "/img/Gonza.fotofigu.jpg",
+  "codigo": "S5M9TX",
+  "desbloqueada": "false"
+},
+{
+  "_id": {
+    "$oid": "68f061dd688484c4a089e6aa"
+  },
+  "nombre": "Figurita 39",
+  "url": "/img/Gonzalo Giménez SL2.jpg",
+  "codigo": "H8R3JW",
+  "desbloqueada": "false"
+},
+{
+  "_id": {
+    "$oid": "68f061dd688484c4a089e6ab"
+  },
+  "nombre": "Figurita 40",
+  "url": "/img/Guantay Ramiro.jpg",
+  "codigo": "C1P7KQ",
+  "desbloqueada": "false"
+},
+{
+  "_id": {
+    "$oid": "68f061dd688484c4a089e6ac"
+  },
+  "nombre": "Figurita 41",
+  "url": "/img/Guillermina Altamirano SL2.png",
+  "codigo": "N4L5VR",
+  "desbloqueada": "false"
+},
+{
+  "_id": {
+    "$oid": "68f061dd688484c4a089e6ad"
+  },
+  "nombre": "Figurita 42",
+  "url": "/img/IMG_20251013_140751214.jpg",
+  "codigo": "T7X1FW",
+  "desbloqueada": "false"
+},
+{
+  "_id": {
+    "$oid": "68f061dd688484c4a089e6ae"
+  },
+  "nombre": "Figurita 43",
+  "url": "/img/Iriart Triana.jpeg",
+  "codigo": "D9K2SZ",
+  "desbloqueada": "false"
+},
+{
+  "_id": {
+    "$oid": "68f061dd688484c4a089e6af"
+  },
+  "nombre": "Figurita 44",
+  "url": "/img/Iván Pereyra SL2.png",
+  "codigo": "P3J8LF",
+  "desbloqueada": "false"
+},
+{
+  "_id": {
+    "$oid": "68f061dd688484c4a089e6b0"
+  },
+  "nombre": "Figurita 45",
+  "url": "/img/Iván Vega SL2.png",
+  "codigo": "F6R4NW",
+  "desbloqueada": "false"
+},
+{
+  "_id": {
+    "$oid": "68f061dd688484c4a089e6b1"
+  },
+  "nombre": "Figurita 46",
+  "url": "/img/Jaime, María.jpg",
+  "codigo": "S2V7KX",
+  "desbloqueada": "false"
+},
+{
+  "_id": {
+    "$oid": "68f061dd688484c4a089e6b2"
+  },
+  "nombre": "Figurita 47",
+  "url": "/img/Javier Zurzolo.jpeg",
+  "codigo": "K5P9TR",
+  "desbloqueada": "false"
+},
+{
+  "_id": {
+    "$oid": "68f061dd688484c4a089e6b3"
+  },
+  "nombre": "Figurita 48",
+  "url": "/img/Joaquín Steinmann SL2.png",
+  "codigo": "M8L3QW",
+  "desbloqueada": "false"
+},
+{
+  "_id": {
+    "$oid": "68f061dd688484c4a089e6b4"
+  },
+  "nombre": "Figurita 49",
+  "url": "/img/Julieta Pratt.jpg",
+  "codigo": "R1F6NX",
+  "desbloqueada": "false"
+},
+{
+  "_id": {
+    "$oid": "68f061dd688484c4a089e6b5"
+  },
+  "nombre": "Figurita 50",
+  "url": "/img/Julieta Sassone.jpg",
+  "codigo": "V3D9LP",
+  "desbloqueada": "false"
+},
+{
+  "_id": {
+    "$oid": "68f061dd688484c4a089e6b6"
+  },
+  "nombre": "Figurita 51",
+  "url": "/img/Leiva, Candela_1.jpg",
+  "codigo": "T5K2MW",
+  "desbloqueada": "false"
+},
+{
+  "_id": {
+    "$oid": "68f061dd688484c4a089e6b7"
+  },
+  "nombre": "Figurita 52",
+  "url": "/img/Lemme, Valentino_1.jpg",
+  "codigo": "H9R4JX",
+  "desbloqueada": "false"
+},
+{
+  "_id": {
+    "$oid": "68f061dd688484c4a089e6b8"
+  },
+  "nombre": "Figurita 53",
+  "url": "/img/Luca Signorini SL2.png",
+  "codigo": "C2F7QV",
+  "desbloqueada": "false"
+},
+{
+  "_id": {
+    "$oid": "68f061dd688484c4a089e6b9"
+  },
+  "nombre": "Figurita 54",
+  "url": "/img/MILAGROS SISCA.jpeg",
+  "codigo": "N6P8LR",
+  "desbloqueada": "false"
+},
+{
+  "_id": {
+    "$oid": "68f061dd688484c4a089e6ba"
+  },
+  "nombre": "Figurita 55",
+  "url": "/img/MONKE IGNACIO .jpg",
+  "codigo": "D4X3SY",
+  "desbloqueada": "false"
+},
+{
+  "_id": {
+    "$oid": "68f061dd688484c4a089e6bb"
+  },
+  "nombre": "Figurita 56",
+  "url": "/img/Mariano Medici.jpeg",
+  "codigo": "F1K9TW",
+  "desbloqueada": "false"
+},
+{
+  "_id": {
+    "$oid": "68f061dd688484c4a089e6bc"
+  },
+  "nombre": "Figurita 57",
+  "url": "/img/Mato Anabel.jpeg",
+  "codigo": "S7J2NV",
+  "desbloqueada": "false"
+},
+{
+  "_id": {
+    "$oid": "68f061dd688484c4a089e6bd"
+  },
+  "nombre": "Figurita 58",
+  "url": "/img/Maximo Vilo.png",
+  "codigo": "R8L5QP",
+  "desbloqueada": "false"
+},
+{
+  "_id": {
+    "$oid": "68f061dd688484c4a089e6be"
+  },
+  "nombre": "Figurita 59",
+  "url": "/img/Medina, Juan.jpg",
+  "codigo": "P9T3KW",
+  "desbloqueada": "false"
+},
+{
+  "_id": {
+    "$oid": "68f061dd688484c4a089e6bf"
+  },
+  "nombre": "Figurita 60",
+  "url": "/img/Melu Sar.jpg",
+  "codigo": "H2V8LX",
+  "desbloqueada": "false"
+},
+{
+  "_id": {
+    "$oid": "68f061dd688484c4a089e6c0"
+  },
+  "nombre": "Figurita 61",
+  "url": "/img/Moreno, Camila_1.jpg",
+  "codigo": "K6F1MW",
+  "desbloqueada": "false"
+},
+{
+  "_id": {
+    "$oid": "68f061dd688484c4a089e6c1"
+  },
+  "nombre": "Figurita 62",
+  "url": "/img/Mur, Alejo_1.jpg",
+  "codigo": "T4J9PX",
+  "desbloqueada": "false"
+},
+{
+  "_id": {
+    "$oid": "68f061dd688484c4a089e6c2"
+  },
+  "nombre": "Figurita 63",
+  "url": "/img/Naranjo, Milagros_1.jpg",
+  "codigo": "C7L3VR",
+  "desbloqueada": "false"
+},
+{
+  "_id": {
+    "$oid": "68f061dd688484c4a089e6c3"
+  },
+  "nombre": "Figurita 64",
+  "url": "/img/Nicolas Ronaldi(1).jpg",
+  "codigo": "V1K8SY",
+  "desbloqueada": "false"
+},
+{
+  "_id": {
+    "$oid": "68f061dd688484c4a089e6c4"
+  },
+  "nombre": "Figurita 65",
+  "url": "/img/Nicolas Ronaldi.jpg",
+  "codigo": "F3R5JW",
+  "desbloqueada": "false"
+},
+{
+  "_id": {
+    "$oid": "68f061dd688484c4a089e6c5"
+  },
+  "nombre": "Figurita 66",
+  "url": "/img/Nicolás Temini SL2.png",
+  "codigo": "M9P2QL",
+  "desbloqueada": "false"
+},
+{
+  "_id": {
+    "$oid": "68f061dd688484c4a089e6c6"
+  },
+  "nombre": "Figurita 67",
+  "url": "/img/Nisa Asin SL2.png",
+  "codigo": "S6D1FX",
+  "desbloqueada": "false"
+},
+{
+  "_id": {
+    "$oid": "68f061dd688484c4a089e6c7"
+  },
+  "nombre": "Figurita 68",
+  "url": "/img/Olivari, Renata.jpeg",
+  "codigo": "H4K7NW",
+  "desbloqueada": "false"
+},
+{
+  "_id": {
+    "$oid": "68f061dd688484c4a089e6c8"
+  },
+  "nombre": "Figurita 69",
+  "url": "/img/Paula Branda.png",
+  "codigo": "R2F9LX",
+  "desbloqueada": "false"
+},
+{
+  "_id": {
+    "$oid": "68f061dd688484c4a089e6c9"
+  },
+  "nombre": "Figurita 70",
+  "url": "/img/Polimeni Florencia.jpg",
+  "codigo": "T8J1QV",
+  "desbloqueada": "false"
+},
+{
+  "_id": {
+    "$oid": "68f061dd688484c4a089e6ca"
+  },
+  "nombre": "Figurita 71",
+  "url": "/img/Portella, Gonzalo_1.jpg",
+  "codigo": "C5L4MW",
+  "desbloqueada": "false"
+},
+{
+  "_id": {
+    "$oid": "68f061dd688484c4a089e6cb"
+  },
+  "nombre": "Figurita 72",
+  "url": "/img/Quirno, Julieta.jpg",
+  "codigo": "V9K3PX",
+  "desbloqueada": "false"
+},
+{
+  "_id": {
+    "$oid": "68f061dd688484c4a089e6cc"
+  },
+  "nombre": "Figurita 73",
+  "url": "/img/Robledo Nicolas.png",
+  "codigo": "F2T6JW",
+  "desbloqueada": "false"
+},
+{
+  "_id": {
+    "$oid": "68f061dd688484c4a089e6cd"
+  },
+  "nombre": "Figurita 74",
+  "url": "/img/Rocio Cuccuini SL2.png",
+  "codigo": "M4P9LX",
+  "desbloqueada": "false"
+},
+{
+  "_id": {
+    "$oid": "68f061dd688484c4a089e6ce"
+  },
+  "nombre": "Figurita 75",
+  "url": "/img/Rojo, Juan_1.jpg",
+  "codigo": "S3D7NW",
+  "desbloqueada": "false"
+},
+{
+  "_id": {
+    "$oid": "68f061dd688484c4a089e6cf"
+  },
+  "nombre": "Figurita 76",
+  "url": "/img/Ruzzo Abril.jpg",
+  "codigo": "H6K1QV",
+  "desbloqueada": "false"
+},
+{
+  "_id": {
+    "$oid": "68f061dd688484c4a089e6d0"
+  },
+  "nombre": "Figurita 77",
+  "url": "/img/Sabatino, Juan Ignacio_1.jpg",
+  "codigo": "T5L8MW",
+  "desbloqueada": "false"
+},
+{
+  "_id": {
+    "$oid": "68f061dd688484c4a089e6d1"
+  },
+  "nombre": "Figurita 78",
+  "url": "/img/Tizzi Vitelli.png",
+  "codigo": "C9F2PX",
+  "desbloqueada": "false"
+},
+{
+  "_id": {
+    "$oid": "68f061dd688484c4a089e6d2"
+  },
+  "nombre": "Figurita 79",
+  "url": "/img/Vega, Ivan_1.jpg",
+  "codigo": "R1J6LW",
+  "desbloqueada": "false"
+},
+{
+  "_id": {
+    "$oid": "68f061dd688484c4a089e6d3"
+  },
+  "nombre": "Figurita 80",
+  "url": "/img/Vilaboa Demian.jpg",
+  "codigo": "P8K4NW",
+  "desbloqueada": "false"
+},
+{
+  "_id": {
+    "$oid": "68f061dd688484c4a089e6d4"
+  },
+  "nombre": "Figurita 81",
+  "url": "/img/Villafañe, Jazmin.jpg",
+  "codigo": "M2T9PX",
+  "desbloqueada": "false"
+}]
